@@ -90,4 +90,5 @@ def coffee():
                         make_coffee(user_choice)
 
 
-coffee()
+if __name__ == "__main__":
+    coffee()
